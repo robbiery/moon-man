@@ -7,15 +7,3 @@ body {
   color: black;
   font-family: Courier;
 }
-
-.row {
-  display: flex;
-  column-gap: 0;
-  margin-left: -15px;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 3px;
-  column-gap: 0;
-}
